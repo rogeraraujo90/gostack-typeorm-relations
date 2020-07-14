@@ -25,7 +25,7 @@ export default class CreateProductTable1594341341772
         },
         {
           name: 'quantity',
-          type: 'numeric',
+          type: 'integer',
         },
         {
           name: 'created_at',
